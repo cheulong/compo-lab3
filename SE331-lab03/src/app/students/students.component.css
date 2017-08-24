@@ -1,0 +1,33 @@
+.student-name {
+	color: #FF0000;
+	font-size: x-large;
+}
+
+.grade {
+	font-weight: bold;
+}
+
+.featured {
+	background: linear-gradient(to bottom right, red, yellow);
+}
+.row{
+	display: flex;
+}
+
+button{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0
+	rgba(0,0,0,0.19);
+	margin-top: 2px;
+}
+input{
+	width: 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	margin-left: -12px;
+	margin-right: 2px;
+
+}
+img{
+	width: 246px;
+}

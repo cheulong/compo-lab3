@@ -1,0 +1,24 @@
+{
+	"data":[
+		{
+			"id": 1,
+			"studentId":"562110509",
+			"name":"Pu",
+			"surname":"Priya",
+			"gpa":0,
+			"image":"images/pu.jpg",
+			"featured":false,
+			"penAmount":0
+		},
+		{
+			"id": 2,
+			"studentId":"562110507",
+			"name":"Prayuth",
+			"surname":"Tu",
+			"gpa":4.00,
+			"image":"images/tu.jpg",
+			"featured":true,
+			"penAmount":0
+		}
+	]
+}
